@@ -1,6 +1,7 @@
 # Process Priority Manager
 
 A rich console application built with .NET 10 and Spectre.Console for managing process CPU priorities.
+[AI STUDIES]
 
 ## Features
 
